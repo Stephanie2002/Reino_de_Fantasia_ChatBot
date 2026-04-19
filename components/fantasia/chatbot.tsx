@@ -58,7 +58,7 @@ export function Chatbot() {
 
     try {
       const response = await fetch("https://stephanie2002-reino-de-fantasia.hf.space/query", {
-        method: "POST",
+        method: "GET",
         headers: {
           "Content-Type": "application/json",
         },

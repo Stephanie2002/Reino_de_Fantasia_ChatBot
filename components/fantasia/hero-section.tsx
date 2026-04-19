@@ -24,7 +24,7 @@ export function HeroSection() {
         </h1>
         
         <p className="max-w-2xl mx-auto text-lg md:text-xl text-gray-300 mb-12 leading-relaxed">
-          Adéntrate en reinos de dragones, hechiceros y héroes legendarios. 
+          AAAAAAdéntrate en reinos de dragones, hechiceros y héroes legendarios. 
           Descubre las historias que han cautivado a millones de lectores en todo el mundo.
         </p>
         

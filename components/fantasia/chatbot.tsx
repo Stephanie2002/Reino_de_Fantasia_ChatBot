@@ -57,7 +57,7 @@ export function Chatbot() {
     setIsLoading(true)
 
     try {
-      const response = await fetch("https://vercel-stephanie/query", {
+      const response = await fetch("https://stephanie2002-reino-de-fantasia.hf.space/query", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
